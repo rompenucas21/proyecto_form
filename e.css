@@ -1,0 +1,95 @@
+*{
+    font-display:auto;
+     margin: 2px;
+     padding: 3px;
+     box-sizing: border-box;
+     background: local;
+     outline-color: rgb(211, 158, 89);
+     border-color: rgb(204, 175, 12);
+     border-radius: 30px;
+     width: auto;
+     height: auto;
+     color: rgb(180, 171, 171);
+     font-size: 15px;
+     padding: 5px 10px 10px 16px;
+ 
+     
+ }
+ .cuerpo {
+     display: flexbox;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     text-justify: unset;
+     align-items:center;
+     min-height: 100vh;
+     background-image: url(https://png.pngtree.com/background/20210714/original/pngtree-school-supplies-graduation-cap-border-blackboard-education-background-picture-image_1219927.jpg);
+     background-size:cover;
+     background-attachment: fixed;
+     margin: 70px auto;
+ }
+ .title{
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Contenedor principal */
+.letras{
+
+    width: auto;
+    height: auto;
+    border-radius: 30px;
+    color: rgb(14, 27, 100);
+    font-size: 15px;
+    padding: 5px 10px 10px 16px;   
+    border-radius: 10px;
+    font-size: medium;
+
+}
+
+/* Formularios */
+.formulario {
+    width: 420px;
+    background: rgb(0, 0, 0);
+    text-align: left;
+    margin: 0 auto;
+    border-radius: 6px;
+    font-size: medium;
+   font-family:cursive;
+   text-align: center;
+   font-weight: 500;
+    
+}
+.foto{
+    width: 150px;
+    height: 150px;
+}
+
+.relleno{
+    position:static;
+    width: 100%;
+    height: 35px;
+    margin: 10px 2px;
+}
+
+
+.btn{
+    width: 50%;
+    height: 45px;
+    background: #977505;
+    border-color: rgb(160, 124, 5);
+   border-radius: 10px;
+   box-shadow: 0 0 10px;
+   cursor: pointer;
+   text-align: center;
+   font-size: medium;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 600;
+}
+
+.regis{
+    margin: -15px 0 15px;
+    text-align:left;
+    color:rgb(207, 171, 7);
+} 
